@@ -1,0 +1,19 @@
+{
+  "todoData": [
+    {
+      "title": "Learn redux",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Addadad",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "hhhhhhh",
+      "status": false,
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+.cartItem{
+    display: flex;
+    padding:32px;
+    justify-content: center;
+    align-items: center;
+    gap:20px
+}
+
+.lebelPrice{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.quantity{
+    display: flex;
+    gap: 10px;
+}
+
+.quantity button{
+    padding: 10px;
+    height: 10px;
+}
+
+.container{
+    width: 30%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.total>h2{
+   padding-bottom: 30px;
+   font-size: 30px;
+}

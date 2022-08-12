@@ -1,0 +1,102 @@
+.pic{
+    width: 200px;
+    height: 200px;
+    display: block;
+    text-align: center;
+    margin: auto;
+}
+
+
+.container{
+    width: 80%;
+    margin: auto;
+    
+}
+
+
+.box{
+    text-align: center;
+}
+
+.Nav{
+    width: 100%;
+    height: 80px;
+    border: 1px solid;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-weight: 550;
+    background-color: brown;
+    color: #f5f5f5;
+}
+
+.logoo{
+    width: 60px;
+    height: 60px;
+}
+
+.banner{
+    width: 95%;
+    height: 600px;
+    margin: auto;
+}
+
+.footerA{
+    background-color: #f5f5f5;
+    width: 100%; 
+}
+
+
+.links{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+.footerA > h2{
+    margin: 30px;
+    padding: 20px; 
+}
+.footerA > hr{
+    margin-top: 50px;
+}
+
+.botton{
+    display: flex;
+    justify-content: space-around;
+}
+
+.pay{
+    height: 350px;
+    width: 40%;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+    font-size: 30px;
+}
+
+.productDiv{
+    width: 50%;
+    margin: auto;
+    display: flex;
+    align-items: center;  
+}
+
+.productDiv img{
+    width: 200px;
+    height: 250px;
+}
+
+.productDiv>div>button{
+    background-color: tomato;
+    color: #f5f5f5;
+    padding: 5px 10px 5px 10px;
+    border: 0;
+    border-radius: 4px;
+}

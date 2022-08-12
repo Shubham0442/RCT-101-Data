@@ -1,0 +1,85 @@
+{
+  "formData": [
+    {
+      "name": "vishvambhar",
+      "age": "25",
+      "address": "Pusad",
+      "department": "Production",
+      "salary": "210000",
+      "isMarried": false,
+      "id": 3
+    },
+    {
+      "name": " Bhavesh Jain",
+      "age": "24",
+      "address": "Kota, Rajasthan",
+      "department": "Account",
+      "salary": "100000",
+      "isMarried": true,
+      "id": 4
+    },
+    {
+      "name": "vishal kumar",
+      "age": "24",
+      "address": "chandigardh, Punjab",
+      "department": "Account",
+      "salary": "250000",
+      "isMarried": false,
+      "id": 5
+    },
+    {
+      "name": "Prem bhai gupta",
+      "age": "24",
+      "address": "Delhi ",
+      "department": "Quality",
+      "salary": "350000",
+      "isMarried": true,
+      "id": 6
+    },
+    {
+      "name": "harsh vyas",
+      "age": "24",
+      "address": "Rajkot, Gujrat",
+      "department": "Quality",
+      "salary": "100000",
+      "isMarried": true,
+      "id": 9
+    },
+    {
+      "name": "Shripa ",
+      "age": "24",
+      "address": "New Delhi",
+      "department": "Account",
+      "salary": "120000",
+      "isMarried": false,
+      "id": 10
+    },
+    {
+      "name": "Swati kushwaha",
+      "age": "25",
+      "address": "Greater, Noida, UP",
+      "department": "Production",
+      "salary": "150000",
+      "isMarried": false,
+      "id": 11
+    },
+    {
+      "name": "Vilas k",
+      "age": "25",
+      "address": "Washim, MH",
+      "department": "Quality",
+      "salary": "150000",
+      "isMarried": false,
+      "id": 12
+    },
+    {
+      "name": "Kalpesh Patil",
+      "age": "27",
+      "address": "Jalgaon, MH",
+      "department": "Account",
+      "salary": "400000",
+      "isMarried": true,
+      "id": 13
+    }
+  ]
+}

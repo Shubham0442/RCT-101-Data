@@ -1,0 +1,19 @@
+.pageDiv > button{
+   border: 0;
+   background-color: #3470e4 ;
+   color: aliceblue;
+   width: 40px;
+   padding: 5px;
+}
+.pageDiv > span{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.pageDiv{ 
+    display: flex;
+    justify-content: center;
+    
+}
+

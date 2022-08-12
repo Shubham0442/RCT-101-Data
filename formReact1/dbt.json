@@ -1,0 +1,37 @@
+{
+  "datas": [
+    {
+      "username": "bhavesh",
+      "age": "122",
+      "address": "chandigardh",
+      "department": "Production",
+      "salery": "32000",
+      "married": true,
+      "id": 4
+    },
+    {
+      "username": "bhavesh",
+      "age": "122",
+      "address": "chandigardh",
+      "department": "Production",
+      "salery": "32000",
+      "married": true,
+      "id": 5
+    },
+    {
+      "username": "shubham0442",
+      "age": "454",
+      "address": "kkm",
+      "salery": "32000",
+      "id": 6
+    },
+    {
+      "username": "shubham0442",
+      "age": "454",
+      "address": "kkm",
+      "salery": "32000",
+      "id": 7
+    }
+    
+  ]
+}

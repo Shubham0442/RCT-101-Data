@@ -1,0 +1,301 @@
+{
+    "mensData":[ 
+            {
+              "images": "/men-img/1_e1f68224-c789-4499-8590-ed5abe69429a_360x.webp",
+              "name": "BMW Motorsport Full Sleeves T-Shirt for Men",
+              "price": "Rs. 699.00",
+              "id":1
+               
+            },
+            {
+              "images": "/men-img/1_7f6538a0-e1cd-4fb2-8571-e9911dcd2639_360x.webp",
+              "name": "Aston Martin Hackett Full Sleeves T-Shirt for Men",
+              "price": "Rs. 699.00",
+              "id":2
+            },
+            {
+              "images": "/men-img/1_72ccf138-3e42-4411-8f63-42c239a84cff_360x.webp",
+              "name": "Abercrombie & Fitch Full Sleeves T-Shirt for Men",
+              "price": "Rs. 699.00",
+              "id":3
+            },
+            {
+              "images": "/men-img/1_93feb54c-8598-4c8f-a913-118f440fab4a_360x.webp",
+              "name": "Balenciaga Full Sleeves T-Shirt",              
+              "price": "Rs. 699.00",
+              "id":4
+            },
+            {
+              "images": "/men-img/1_119a9af5-cc2a-4714-9c0f-0cdaf0333b1f_360x.webp",
+              "name": "New Balance Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":5
+            },
+            {
+              "images": "/men-img/1_6680352b-ea61-4b5b-8e35-b46507616dd2_360x.webp",
+              "name": "Givenchy Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":6
+            },
+            {
+              "images": "/men-img/1_a2c8c8ef-0a86-40ed-96b1-c1aa3b1a7499_360x.webp",
+              "name": "Peter England Full Sleeves T-Shirt for Men",
+              "price": "Rs. 699.00",
+              "id":7
+            },
+            {
+              "images": "/men-img/1_a7d2d7c7-be84-4a7a-a48a-b43cf64b37b0_360x.webp",
+              "name": "Being Human Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":8
+            },
+            {
+              "images": "/men-img/1_bde90ca0-a384-497b-aa8d-f60b3f647533_360x.webp",
+              "name": "AMG Mercedes Benz Full Sleeves T-Shirt for Men",  
+              "price": "Rs. 799.00",
+              "id":9
+            },
+            {
+              "images": "/men-img/1_e1f68224-c789-4499-8590-ed5abe69429a_360x.webp",
+              "name": "Givenchy Full Sleeves T-Shirt for Men",
+              "price": "Rs. 699.00",
+              "id":10
+            },
+            {
+              "images": "/men-img/1_f5039a2d-8ad7-4269-b8d1-1a3a5fc1df20_360x.webp",
+              "name": "Kenzo Tiger Full Sleeves T-Shirt for Men",
+              "price": "Rs. 699.00",
+              "id":11
+            },
+            {
+              "images": "/men-img/2_3f7e9b41-7f5c-4008-b89f-230db748be62_360x.webp",
+              "name": "Being Human Full Sleeves T-Shirt for Men",             
+              "price": "Rs. 699.00",
+              "id":12
+            },
+            {
+              "images": "/men-img/2_7dcefbe7-0f45-46c5-a70e-fcd2c55cb21a_360x.webp",
+              "name": "Manchester United Full Sleeves T-Shirt for Men",
+              "price": "Rs. 799.00",
+              "id":13
+            },
+            {
+              "images": "/men-img/2_08e896c1-d46b-4ea7-bfce-f212de5f4e24_360x.webp",
+              "name": "Dior Full Sleeves T-Shirt",  
+              "price": "Rs. 699.00",
+              "id":14
+            },
+            {
+              "images": "/men-img/2_9dbce2a3-be3d-462d-8b4c-2212144fe2fe_360x.webp",
+              "name": "Customized-Custom-Personalized",
+              "price": "Rs. 799.00",
+              "id":15
+            },
+            {
+              "images": "/men-img/2_aa0a3500-e82f-4a42-825f-263251cd9a34_360x.webp",
+              "name": "Moschino Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":16
+            },
+            {
+              "images": "/men-img/2_b97af3c6-5aaf-47b2-90a0-f2e8f25cca2b_360x.webp",
+              "name": "Real Madrid Full Sleeves T-Shirt for Men",
+              "price": "Rs. 799.00",
+              "id":17
+            },
+            {
+              "images": "/men-img/2_ebc2bb88-ff2f-40db-b7f8-879b226f499f_360x.webp",
+              "name": "Woodland Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":18
+            },
+            {
+              "images": "/men-img/3_510f455f-52b7-4d7e-8a54-70d44c606daf_360x.webp",
+              "name": "Champion Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":19
+            },
+            {
+              "images": "/men-img/3_bc519be0-fcf6-4099-993a-0e0cf66e4278_360x.webp",
+              "name": "Lamborghini Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":20
+            },
+            {
+              "images": "/men-img/4_2cc5729b-acee-41a1-bfe7-ae1b8d83c3d2_360x.webp",
+              "name": "Abercrombie & Fitch Full Sleeves T-Shirt for Men",
+              "price": "Rs. 699.00",
+              "id":21
+            },
+            {
+              "images": "/men-img/4_310bfdfa-ebab-48dd-8ac6-dc0cf9cabccb_360x.webp",
+              "name": "Van Heusen Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":22
+            },
+            {
+              "images": "/men-img/4_02382d8b-8b42-4a31-ba91-ff578afb040b_720x.webp",
+              "name": "Jurassic Park Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":23
+            },
+            {
+              "images": "/men-img/4_dd278634-9662-4d5e-9660-2e24216c8ac5_360x.webp",
+              "name": "Kenzo Full Sleeves T-Shirt",
+              "price": "Rs. 699.00",
+              "id":24
+            }
+          ],
+
+          "womensData":
+          [
+            {
+                "images": "/womens-img/6_9ffbafbf-f142-4515-bb2e-d49c673ad24a_360x.webp",
+                "name": "Plain Maroon Hoodie Sweatshirt for Women Regular",
+                "price": "Rs. 699.00",
+                "id":1
+                 
+              },
+              {
+                "images": "/womens-img/3_0456738c-18c7-4a1b-b2fa-6218e7b31ff3_360x.webp",
+                "name": "Plain Navy Blue Hoodie Sweatshirt for WomenRegular",
+                "price": "Rs. 699.00",
+                "id":2
+              },
+              {
+                "images": "/womens-img/3_757dae01-42e1-40e7-96a8-6046aa7e2d7b_360x.webp",
+                "name": "Plain Red Full Sleeves T-Shirt for WomenRegular price",
+                "price": "Rs. 699.00",
+                "id":3
+              },
+              {
+                "images": "/womens-img/6_627a00d2-022a-4c52-bc9c-22acecf464d5_180x.webp",
+                "name": "Plain Black-Charcoal Raglan Full Sleeves T-Shirt For Women Regular price",              
+                "price": "Rs. 699.00",
+                "id":4
+              },
+              {
+                "images": "/womens-img/4_e7b54a16-6a65-4bae-9c27-b144ee906cb0_360x.webp",
+                "name": "Plain Grey Full Sleeves T-Shirt for WoRegular price",
+                "price": "Rs. 699.00",
+                "id":5
+              },
+              {
+                "images": "/womens-img/6_e6de2f1c-9d73-4d0b-a92c-6b659e7009ba_360x.webp",
+                "name": "Plain White Full Sleeves T-Shirt for WomenRegular price",
+                "price": "Rs. 699.00",
+                "id":6
+              },
+              {
+                "images": "/womens-img/1_3b373802-0b96-438b-bdb6-5085ef4680ec_360x.webp",
+                "name": "Plain Black Full Sleeves T-Shirt for Women Regular price",
+                "price": "Rs. 699.00",
+                "id":7
+              },
+              {
+                "images": "/womens-img/2_be484d25-accf-4c85-98c4-54ca9e943dd5_360x.webp",
+                "name": "Plain White-Black Raglan Full Sleeves T-Shirt For Women Regular price",
+                "price": "Rs. 699.00",
+                "id":8
+              },
+              {
+                "images": "/womens-img/5_55e02fa1-3c56-4f19-ae67-5e147a79f6b7_360x.webp",
+                "name": "Plain Dark Green Hoodie Sweatshirt for Women Regular price",  
+                "price": "Rs. 799.00",
+                "id":9
+              },
+              {
+                "images": "/womens-img/2_700d7947-b178-4c08-889d-bd2612f4469e_360x.webp",
+                "name": "Plain Grey Hoodie Sweatshirt for Women",
+                "price": "Rs. 699.00",
+                "id":10
+              },
+              {
+                "images": "/womens-img/4_1474ba94-5207-4634-805b-62f750081e98_360x.webp",
+                "name": "Plain White Hoodie Sweatshirt for Women",
+                "price": "Rs. 699.00",
+                "id":11
+              },
+              {
+                "images": "/womens-img/1_2f76e8d8-3571-4db8-98d8-0c1ecf657289_360x.webp",
+                "name": "Plain Black Hoodie Sweatshirt for Women",             
+                "price": "Rs. 699.00",
+                "id":12
+              },
+              {
+                "images": "/womens-img/2_8ccadd38-82ef-41d4-a32a-a4a43d47cee7_360x.webp",
+                "name": "Plain Navy Blue Long Top/Dress for Women",
+                "price": "Rs. 799.00",
+                "id":13
+              },
+              {
+                "images": "/womens-img/8_fe6aa8b9-14f5-4d7d-ba56-d0c37395714e_180x.webp",
+                "name": "Plain Royal Blue Hoodie Sweatshirt for Women",  
+                "price": "Rs. 699.00",
+                "id":14
+              },
+              {
+                "images": "/womens-img/6_8c4b9957-524c-477a-b119-a1890194ebc8_180x.webp",
+                "name": "Plain White Long Top for Women",
+                "price": "Rs. 799.00",
+                "id":15
+              },
+              {
+                "images": "/womens-img/2_8a6fe581-9cbf-41fc-b8d2-24fac4c47bd0_180x.webp",
+                "name": "Plain Royal Blue Full Sleeves T-Shirt for Women",
+                "price": "Rs. 699.00",
+                "id":16
+              },
+              {
+                "images": "/womens-img/5_e6e95c28-969c-4db8-bb0b-826866d872d6_180x.webp",
+                "name": "Plain Black Long Top for Women",
+                "price": "Rs. 799.00",
+                "id":17
+              },
+              {
+                "images": "/womens-img/1_91912aba-cdf9-43b3-bd25-b81ee584d524_180x.webp",
+                "name": "Plain Black-White Raglan Full Sleeves T-Shirt For Women",
+                "price": "Rs. 699.00",
+                "id":18
+              },
+              {
+                "images": "/womens-img/2_7f9a0423-d1ed-4641-bf9f-e3f786959965_180x.webp",
+                "name": "Plain Pink Half Sleeves T-Shirt for Women",
+                "price": "Rs. 699.00",
+                "id":19
+              },
+              {
+                "images": "/womens-img/5_4bae58e8-0494-465f-9a1e-b708fbec6378_180x.webp",
+                "name": "Plain Navy Blue Full Sleeves T-Shirt for Women",
+                "price": "Rs. 699.00",
+                "id":20
+              },
+              {
+                "images": "/womens-img/8_d395125f-d080-45f8-a6b7-85c27486071c_180x.webp",
+                "name": "Plain Grey Half Sleeves T-Shirt for Women",
+                "price": "Rs. 699.00",
+                "id":21
+              },
+              {
+                "images": "/womens-img/9_30e42c81-cc9e-40c2-8233-ebc569f33a4b_180x.webp",
+                "name": "Plain Navy Blue Half Sleeves T-Shirt for Women",
+                "price": "Rs. 699.00",
+                "id":22
+              },
+              {
+                "images": "/womens-img/5_7cd89dfd-2089-4e7a-9201-4de70f02a39f_180x.webp",
+                "name": "Plain Black Half Sleeves T-Shirt for Women",
+                "price": "Rs. 699.00",
+                "id":23
+              },
+              {
+                "images": "/womens-img/13_3c010cf3-7de0-4bcb-9ed4-76b865cef230_180x.webp",
+                "name": "Plain Royal Blue Half Sleeves T-Shirt for Women",
+                "price": "Rs. 699.00",
+                "id":24
+              }
+          ]
+          
+        
+      
+}

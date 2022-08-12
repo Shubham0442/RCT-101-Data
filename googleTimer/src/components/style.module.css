@@ -1,0 +1,31 @@
+.timerDiv{
+    display: flex;
+    gap: 10px;
+}
+
+.b3{
+    border: 1px solid #d2cece;
+    color: #3470e4;
+    background-color: white; 
+    font-weight: 550;
+}
+
+
+.timerDiv>button:hover{
+    cursor: pointer;
+}
+
+.b1{
+    border: 0;
+    color: white;
+    background-color:  #3470e4;  
+    font-weight: 550;
+}
+
+.b2{
+    border: 0;
+    
+    color: white;
+    background-color:  #3470e4; 
+    font-weight: 550;
+}

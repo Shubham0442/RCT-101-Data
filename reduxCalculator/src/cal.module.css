@@ -1,0 +1,55 @@
+.container{
+    padding: 10px;
+    display: flex;
+    width:15%;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.container>button{
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+    }
+
+.output{
+    width: 60%;
+    margin: auto;
+    height: px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.calbtn{
+    width: 20%;
+    display: flex; 
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 10px;
+    margin: auto;
+} 
+
+button{
+    background-color: #3470e4 ;
+    border: 0; 
+    color: aliceblue;
+    font-weight: 550;
+    padding: 15px 20px 15px 20px; 
+    margin: 10px; 
+    border-radius: 5px; 
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+} 
+
+button:hover{
+    background-color:#fc7c36 ;
+    cursor: pointer;
+}
+
+input{
+    text-align: center; 
+    border-radius: 5px;
+    height: 25px;
+    border: 0px solid brown;
+    box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
+}
